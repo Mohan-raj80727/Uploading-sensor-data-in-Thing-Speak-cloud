@@ -1,6 +1,6 @@
 # NAME: MOHAN RAJ.S
 # REGISTER NO: 24901224
-# Uploading temperature sensor data in Thing Speak cloud
+# EXPERIMENT NO 3 : Uploading temperature sensor data in Thing Speak cloud
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
 
